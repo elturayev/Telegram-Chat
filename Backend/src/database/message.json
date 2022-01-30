@@ -1,0 +1,26 @@
+[
+    {
+        "messageId": 1,
+        "userId": 1,
+        "messageType": "text",
+        "messageDate": "Sun Jan 16 2022 14:57:54 GMT+0500 (Узбекистан, стандартное время)",
+        "messageText": "Assalomu alaykum",
+        "sendUserId": 2
+    },
+    {
+        "messageId": 2,
+        "userId": 2,
+        "messageType": "text",
+        "messageDate": "Sun Jan 16 2022 14:46:37 GMT+0500 (Узбекистан, стандартное время)",
+        "messageText": "Assalomu",
+        "sendUserId": 1
+    },
+    {
+        "messageId": 2,
+        "userId": 2,
+        "messageType": "text",
+        "messageDate": "Sun Jan 16 2022 14:46:37 GMT+0500 (Узбекистан, стандартное время)",
+        "messageText": "alk",
+        "sendUserId": 1
+    }
+]

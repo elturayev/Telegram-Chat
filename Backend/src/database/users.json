@@ -1,0 +1,20 @@
+[
+    {
+        "userId": 1,
+        "username": "Ali",
+        "password": "4d57adceadfe951a20afeac141fda92691949329a1e860f1dcb955e5ae161879",
+        "profileImg": "/images/NASA.jpg"
+    },
+    {
+        "userId": 2,
+        "username": "Bahodir",
+        "password": "c37e0190098c5f1c6477616a9abc4176530831c1ebe0adae81a355e5156e14ac",
+        "profileImg": "/images/SDD.jpg"
+    },
+    {
+        "userId": 3,
+        "username": "Aziz",
+        "password": "90e4da52c577c9ac082a58fdb6e684a73625344ee47fb671da38b3c0843c6477",
+        "profileImg": "/images/facebook.jpg"
+    }
+]
